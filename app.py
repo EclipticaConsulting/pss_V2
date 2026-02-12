@@ -844,7 +844,7 @@ elif modo_app == T["nav_view"]:
                                 text=f"<b>{texto_mostrar}</b>",
                                 x=0.5, y=0.5,
                                 font_size=24,
-                                showarrow=False,
+                                showarrow=False,    
                                 font=dict(color=text_color, family="Arial Black")
                             )],
                             margin=dict(t=10, b=10, l=10, r=10),
